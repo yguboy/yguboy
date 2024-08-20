@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**yguboy/yguboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Ygor Espada, um desenvolvedor web full-stack com paixão por criar soluções robustas e eficientes. 
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL
+- **Frameworks:** React, Node.js, .NET
+- **Ferramentas:** Git, StackOverflow, Postman
+- **Metodologias:** Agile, Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educação
+- **Tecnologo em Analise e Desenvolvimento de Sistemas** - POSITIVO(UP)
+
+## 🏆 Conquistas
+Todas as certificações realizadas atraves de cursos pela plataforma Udemy 
+- Certificação em Curso de JavaScript e TypeScript do básico ao avançado JS/TS
+- Certificação em Desenvolvimento Web Completo - 20 cursos + 20 projetos
+- Certificação em C# completo - Curso prático + projetos
+- Certificação em Flutter e Desenvolvimento de Apps Para Android e IOS
+
+
+## 📫 Como me encontrar
+- **Email:** ygorespada14@gmail.com
+- **LinkedIn:** [Perfil](www.linkedin.com/in/ygor-espada-0a374a210)
