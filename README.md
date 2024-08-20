@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Eu me chamo Ygor Espada, um desenvolvedor web full-stack com paixão por criar soluções robustas e eficientes. 
+Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando na area de Analise de Banco de Dados.
 
 ## 🚀 Habilidades
 - **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL
