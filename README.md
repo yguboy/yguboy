@@ -5,14 +5,16 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
 ## 🚀 Habilidades
 - **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL
 - **Frameworks:** React, Node.js, .NET
-- **Ferramentas:** Git, GitLab, StackOverflow, Postman
+- **Ferramentas:** Git, GitLab, StackOverflow, Postman, Canva
 - **Metodologias:** Agile, Scrum
 
 <div style="display: inline_block">
   <img align="center" alt="Ygor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Ygor-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Ygor-Stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
-  <img align="center" alt="Ygor-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />                       
+  <img align="center" alt="Ygor-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="Ygor-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
 </div>
 
 ## 🎓 Educação
@@ -40,7 +42,14 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img align="center" alt="Ygor-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />         
   <img align="center" alt="Ygor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Ygor-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Ygor-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />                 
+  <img align="center" alt="Ygor-.NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Ygor-Zend" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zend/zend-original.svg" />
+  <img align="center" alt="Ygor-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+  <img align="center" alt="Ygor-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+  <img align="center" alt="Ygor-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+  <img align="center" alt="Ygor-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />  
+  <img align="center" alt="Ygor-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Ygor-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />       
 </div>
 
 ## 🏆 Certificações
