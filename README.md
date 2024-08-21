@@ -21,4 +21,4 @@ Todas as certificações realizadas atraves de cursos pela plataforma Udemy
 
 ## 📫 Como me encontrar
 - **Email:** ygorespada14@gmail.com
-- **LinkedIn:** [Perfil](www.linkedin.com/in/ygor-espada-0a374a210)
+- **LinkedIn:** [Perfil](https://www.linkedin.com/in/ygor-espada-0a374a210/)
