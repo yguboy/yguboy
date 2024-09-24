@@ -3,8 +3,6 @@
 Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando na area de Analise de Banco de Dados.
 
 ## 🚀 Habilidades
-- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL
-- **Frameworks:** React, Node.js, .NET
 - **Ferramentas:** Git, GitLab, StackOverflow, Postman, Canva
 - **Metodologias:** Agile, Scrum
 
@@ -25,6 +23,9 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yguboy&theme=catppuccin_mocha&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yguboy&layout=compact&langs_count=16&theme=catppuccin_mocha">
 </div>
+
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL
+- **Frameworks:** React, Node.js, .NET
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
