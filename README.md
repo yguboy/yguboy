@@ -24,7 +24,7 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yguboy&layout=compact&langs_count=16&theme=catppuccin_mocha">
 </div>
 
-- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL, SQLite, Zend, Axios, Android, Apache, Go, Next, Ruby 
 - **Frameworks:** React, Node.js, .NET
 
 <div style="display: inline_block"><br>
