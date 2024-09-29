@@ -12,7 +12,6 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img align="center" alt="Ygor-Stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
   <img align="center" alt="Ygor-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" alt="Ygor-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-          
 </div>
 
 ## 🎓 Educação
@@ -23,7 +22,7 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yguboy&theme=catppuccin_mocha&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yguboy&layout=compact&langs_count=16&theme=catppuccin_mocha">
 </div>
-
+    
 - **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL, SQLite, Zend, Axios, Android, Apache, Go, Next, Ruby 
 - **Frameworks:** React, Node.js, .NET
 
