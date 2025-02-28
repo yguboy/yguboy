@@ -23,7 +23,7 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yguboy&layout=compact&langs_count=16&theme=catppuccin_mocha">
 </div>
     
-- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL, SQLite, Zend, Axios, Android, Apache, Go, Next, Ruby 
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL, SQLite, Zend, Axios, Android, Apache, Go, Next, Ruby, Python
 - **Frameworks:** React, Node.js, .NET
 
 <div style="display: inline_block"><br>
@@ -49,7 +49,8 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
   <img align="center" alt="Ygor-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
   <img align="center" alt="Ygor-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />  
   <img align="center" alt="Ygor-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Ygor-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />       
+  <img align="center" alt="Ygor-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />     
+  <img align="center" alt="Ygor-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
 </div>
 
 ## 🏆 Certificações
