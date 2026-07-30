@@ -8,13 +8,6 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
 
 ## 🎓 Educação
 - **Tecnologo em Analise e Desenvolvimento de Sistemas** - POSITIVO(UP)
-
-<div>
-  <a href="https://beacons.ai/yguboy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yguboy&theme=catppuccin_mocha&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yguboy&layout=compact&langs_count=16&theme=catppuccin_mocha">
-</div>
-    
 - **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL, SQLite, Zend, Axios, Android, Apache, Go, Next, Ruby, Python
 - **Frameworks:** React, Node.js, .NET
 
