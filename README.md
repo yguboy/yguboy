@@ -6,14 +6,6 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
 - **Ferramentas:** Git, GitLab, StackOverflow, Postman, Canva
 - **Metodologias:** Agile, Scrum
 
-<div style="display: inline_block">
-  <img align="center" alt="Ygor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Ygor-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="Ygor-Stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
-  <img align="center" alt="Ygor-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img align="center" alt="Ygor-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-</div>
-
 ## 🎓 Educação
 - **Tecnologo em Analise e Desenvolvimento de Sistemas** - POSITIVO(UP)
 
