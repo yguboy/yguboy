@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando na area de Analise de Banco de Dados.
+Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando na area de Infraestrutura de Dados.
 
 ## 🚀 Habilidades
 - **Ferramentas:** Git, GitLab, StackOverflow, Postman, Canva
