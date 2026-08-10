@@ -8,8 +8,6 @@ Eu me chamo Ygor Espada, um desenvolvedor web full-stack atualmente trabalhando 
 
 ## 🎓 Educação
 - **Tecnologo em Analise e Desenvolvimento de Sistemas** - POSITIVO(UP)
-- **Linguagens:** HTML, CSS, JavaScript, TypeScript, C, C#, Java, Oracle, PHP, Kotlin, Angular, SQL, SQLite, Zend, Axios, Android, Apache, Go, Next, Ruby, Python
-- **Frameworks:** React, Node.js, .NET
 
 ## 🏆 Certificações
 Todas as certificações foram realizadas atraves de cursos pela plataforma Udemy 
