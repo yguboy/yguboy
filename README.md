@@ -21,7 +21,3 @@ Todas as certificações foram realizadas atraves de cursos pela plataforma Udem
 <a href="https://www.linkedin.com/in/ygor-espada-0a374a210/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<a href="https://www.instagram.com/yguespada/">
-  <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
